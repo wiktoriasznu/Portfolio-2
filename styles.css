@@ -82,7 +82,7 @@ html, body{
   }
   
   .home h1{
-    font-weigth: 100;
+    font-weight: 100;
     font-size: 50px;
     color: #EEE;
     padding: 0px 0px 5px 0px;
@@ -254,7 +254,7 @@ html, body{
     margin-top: 1em;
     text-decoration: none;
     color: white;
-    margin-left: 40%;
+    margin-left: 45%;
     margin-top: 7%;
     box-shadow:10px 5px 5px gray;
     
@@ -283,9 +283,9 @@ html, body{
   }
   
   .contact h2{
-   padding-botoom: 50px;
+   padding-bottom: 50px;
     font-size: 25px;
-    font-weigth: 100;
+    font-weight: 100;
     text-transform: uppercase;
     color: #FFF;
   }
@@ -295,7 +295,7 @@ html, body{
     margin-bottom: 10px;
     color: #fff;
     font-size: 17px;
-    font-weigth: 100;
+    font-weight: 100;
     text-align: left;  
   }
   
@@ -320,7 +320,7 @@ html, body{
   
   
   textarea{
-    min-heigth: 150px;
+    min-height: 150px;
     max-height: 150px;
     max-width:100%;
       min-width:100%;
@@ -357,7 +357,7 @@ html, body{
   
   #conteneur-footer{
     padding: 10px 0;
-    background-color: #000;
+   /* background-color: #000;*/
     color: #fff;
     text-align: center;
   }
@@ -367,3 +367,4 @@ html, body{
     text-decoration: none;
     transition: 0.4s;
   }
+
